@@ -1,0 +1,4 @@
+[](some link)
+[]
+hello
+()
